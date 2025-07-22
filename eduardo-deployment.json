@@ -1,0 +1,15 @@
+{
+  "projectName": "ETH-KIPU Module 5 Security Analysis",
+  "studentName": "Eduardo J. Moreno",
+  "contractName": "EduardoMoreno_Attacker",
+  "contractAddress": "0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E",
+  "transactionHash": "0xb3e8ba8d5e012098fdb358e69281ac6734464e0eeed595aa29f912f9460afe33",
+  "deployerAddress": "0x4829f4f3aadee47Cb1cc795B2eC78A166042e918",
+  "network": "sepolia",
+  "targetContract": "0x5733eE985e22eFF46F595376d79e31413b1A1e16",
+  "deploymentTime": "2025-07-22T20:33:39.241Z",
+  "gasUsed": "874766",
+  "gasPrice": "651334097",
+  "estimatedCost": "0.000569764922696302",
+  "blockNumber": "pending"
+}
