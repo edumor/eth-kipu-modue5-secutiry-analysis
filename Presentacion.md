@@ -90,7 +90,9 @@ Status: ✅ SUCCESS
 ✅ Grade Achieved: 70/100 points
 ✅ Registration Time: July 22, 2025 at 20:34:18 UTC
 ✅ Assignment Status: APPROVED (≥70 points required)
-✅ Position: 57th student registered
+✅ Registration Number: #57 (57th student registered in contract)
+✅ Block Number: 8,820,170
+✅ Transaction Hash: 0xdf8ddcaabe8029b8d1ca474f0fc11877d34bae972161473cad748bebb9b46f84
 ```
 
 ### Attack Success Metrics
@@ -142,6 +144,18 @@ Status: ✅ SUCCESS
 - Call `students("Eduardo J. Moreno")` → Should return: **70**
 - Call `isGraded(0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E)` → Should return: **true**
 - Call `counter(0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E)` → Should return: **3**
+
+### Method 4: Check Student Registration Number
+🔗 **Registration Details:**
+- **Student Name:** "Eduardo J. Moreno"
+- **Registration Position:** **#57** (57th student registered)
+- **Registration Block:** 8,820,170
+- **Registration Time:** July 22, 2025 at 20:34:18 UTC
+
+**To verify registration number:**
+- Check the `RegistrationSuccess` event logs in the transaction
+- Count previous `RegistrationSuccess` events to confirm position #57
+- Verify registration timestamp matches block 8,820,170
 
 ---
 
