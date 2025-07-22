@@ -59,7 +59,7 @@ Explorer: https://sepolia.etherscan.io/address/0x1aE2aBD639b322688E0c3dDd05D860D
 ```
 Deployment Transaction: 0xb3e8ba8d5e012098fdb358e69281ac6734464e0eeed595aa29f912f9460afe33
 Attack Transaction: 0xdf8ddcaabe8029b8d1ca474f0fc11877d34bae972161473cad748bebb9b46f84
-Student Wallet: 0x4829f4f3aadee47Cb1cc795B2eC78A166042e918
+Student Wallet: 0x***********************************918
 ```
 
 ### 🎉 Final Results
