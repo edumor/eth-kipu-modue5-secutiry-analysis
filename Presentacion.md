@@ -7,23 +7,23 @@
 
 ---
 
-## 🚨 INFORMACIÓN CRÍTICA DE LA TAREA - EDUARDO J. MORENO
+## 🚨 CRITICAL ASSIGNMENT INFORMATION - EDUARDO J. MORENO
 
-### 🎯 **CONTRATO DE ATAQUE DE EDUARDO J. MORENO**
+### 🎯 **EDUARDO J. MORENO'S ATTACK CONTRACT**
 ```
-👤 Estudiante: Eduardo J. Moreno
-📝 Nombre del Contrato: EduardoMoreno_Attacker
-📍 Dirección del Contrato: 0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E
-🌐 Red: Sepolia Testnet
-🔒 Estado de Verificación: 🚫 NO VERIFICADO (Como se requiere)
-📊 Calificación Obtenida: 70/100 puntos ✅
-✅ Estado de la Tarea: APROBADA
+👤 Student: Eduardo J. Moreno
+📝 Contract Name: EduardoMoreno_Attacker
+📍 Contract Address: 0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E
+🌐 Network: Sepolia Testnet
+🔒 Verification Status: 🚫 NOT VERIFIED (As required)
+📊 Grade Obtained: 70/100 points ✅
+✅ Assignment Status: APPROVED
 ```
 
-### 🔗 **ENLACES DE VERIFICACIÓN DIRECTA**
-- **Contrato de Ataque:** https://sepolia.etherscan.io/address/0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E
-- **Transacción de Registro:** https://sepolia.etherscan.io/tx/0xdf8ddcaabe8029b8d1ca474f0fc11877d34bae972161473cad748bebb9b46f84
-- **Repositorio GitHub:** https://github.com/edumor/eth-kipu-module5-security-analysis.git
+### 🔗 **DIRECT VERIFICATION LINKS**
+- **Attack Contract:** https://sepolia.etherscan.io/address/0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E
+- **Registration Transaction:** https://sepolia.etherscan.io/tx/0xdf8ddcaabe8029b8d1ca474f0fc11877d34bae972161473cad748bebb9b46f84
+- **GitHub Repository:** https://github.com/edumor/eth-kipu-modue5-secutiry-analysis.git
 
 ---
 
@@ -35,14 +35,14 @@ Successfully exploited **Grader5** contract vulnerabilities using a sophisticate
 
 ## 📋 Key Contract Information
 
-### 🏗️ **CONTRATO DE ATAQUE - EduardoMoreno_Attacker (EDUARDO J. MORENO)**
+### 🏗️ **ATTACK CONTRACT - EduardoMoreno_Attacker (EDUARDO J. MORENO)**
 ```
-👤 Propietario: Eduardo J. Moreno
-📝 Nombre del Contrato: EduardoMoreno_Attacker
-📍 Dirección del Contrato: 0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E
-🌐 Red: Sepolia Testnet
-🔒 Estado: 🚫 NO VERIFICADO (como se requiere en la tarea)
-💳 Creador (Wallet de Eduardo): 0x4829f4f3aadee47Cb1cc795B2eC78A166042e918
+👤 Owner: Eduardo J. Moreno
+📝 Contract Name: EduardoMoreno_Attacker
+📍 Contract Address: 0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E
+🌐 Network: Sepolia Testnet
+🔒 Status: 🚫 NOT VERIFIED (as required by assignment)
+💳 Creator (Eduardo's Wallet): 0x*********************8918
 ```
 
 ### 🎯 Target Contract - Grader5
@@ -148,11 +148,11 @@ Status: ✅ SUCCESS
 ## 💻 GitHub Repository
 
 ### 🔗 Complete Project Repository
-**Link:** https://github.com/edumor/eth-kipu-module5-security-analysis.git
+**Link:** https://github.com/edumor/eth-kipu-modue5-secutiry-analysis.git
 
 ### Repository Contents
 ```
-📁 eth-kipu-module5-security-analysis/
+📁 eth-kipu-modue5-secutiry-analysis/
 ├── 📁 contracts/
 │   ├── EduardoMoreno_Attacker.sol    # Main attack contract
 │   ├── Grader5Reference.sol          # Target contract analysis copy
@@ -189,7 +189,7 @@ Status: ✅ SUCCESS
 | **Register student name** | ✅ | "Eduardo J. Moreno" registered successfully |
 | **Achieve ≥70 points** | ✅ | 70/100 points achieved |
 | **Document everything** | ✅ | Complete README.md + Presentacion.md |
-| **Provide GitHub repo** | ✅ | https://github.com/edumor/eth-kipu-module5-security-analysis.git |
+| **Provide GitHub repo** | ✅ | https://github.com/edumor/eth-kipu-modue5-secutiry-analysis.git |
 
 ---
 
@@ -253,36 +253,36 @@ Successfully completed **ETH-KIPU Module 5** practical assignment by:
 5. **📊 Achieving** 70/100 points, meeting assignment requirements
 6. **📝 Documenting** complete process with professional standards
 
-### 🎯 **RESULTADOS FINALES - EDUARDO J. MORENO**
+### 🎯 **FINAL RESULTS - EDUARDO J. MORENO**
 ```
-✅ Estudiante: Eduardo J. Moreno
-📝 Contrato: EduardoMoreno_Attacker
-📍 Dirección: 0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E
-📊 Calificación: 70/100 puntos  
-✅ Estado: APROBADA
-📅 Fecha: 22 de julio, 2025
-💾 Repositorio: https://github.com/edumor/eth-kipu-module5-security-analysis.git
+✅ Student: Eduardo J. Moreno
+📝 Contract: EduardoMoreno_Attacker
+📍 Address: 0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E
+📊 Grade: 70/100 points  
+✅ Status: APPROVED
+📅 Date: July 22, 2025
+💾 Repository: https://github.com/edumor/eth-kipu-modue5-secutiry-analysis.git
 ```
 
 **🎓 Ready for instructor review and final grade assignment! 🌟**
 
 ---
 
-## 📞 **INFORMACIÓN DE CONTACTO Y ENLACES - EDUARDO J. MORENO**
+## 📞 **CONTACT INFORMATION AND LINKS - EDUARDO J. MORENO**
 
-### 🔗 **Enlaces Principales**
-- **📁 Repositorio GitHub:** https://github.com/edumor/eth-kipu-module5-security-analysis.git
-- **📍 Contrato de Ataque (EduardoMoreno_Attacker):** https://sepolia.etherscan.io/address/0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E  
-- **📋 Transacción de Registro:** https://sepolia.etherscan.io/tx/0xdf8ddcaabe8029b8d1ca474f0fc11877d34bae972161473cad748bebb9b46f84
-- **🎯 Contrato Objetivo:** https://sepolia.etherscan.io/address/0x5733eE985e22eFF46F595376d79e31413b1A1e16
+### 🔗 **Main Links**
+- **📁 GitHub Repository:** https://github.com/edumor/eth-kipu-modue5-secutiry-analysis.git
+- **📍 Attack Contract (EduardoMoreno_Attacker):** https://sepolia.etherscan.io/address/0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E  
+- **📋 Registration Transaction:** https://sepolia.etherscan.io/tx/0xdf8ddcaabe8029b8d1ca474f0fc11877d34bae972161473cad748bebb9b46f84
+- **🎯 Target Contract:** https://sepolia.etherscan.io/address/0x5733eE985e22eFF46F595376d79e31413b1A1e16
 
-### 👤 **Información del Estudiante**
+### 👤 **Student Information**
 ```
-Estudiante: Eduardo J. Moreno
-Contrato de Ataque: EduardoMoreno_Attacker  
-Dirección del Contrato: 0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E
-Estado: NO VERIFICADO (Como requiere la tarea)
-Calificación: 70/100 puntos ✅ APROBADA
+Student: Eduardo J. Moreno
+Attack Contract: EduardoMoreno_Attacker  
+Contract Address: 0x1aE2aBD639b322688E0c3dDd05D860D813CedC6E
+Status: NOT VERIFIED (As required by assignment)
+Grade: 70/100 points ✅ APPROVED
 ```
 
-*This assignment demonstrates mastery of smart contract security analysis, vulnerability exploitation, and professional blockchain development practices.*
+
